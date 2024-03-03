@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOsWPeuhd0Po1gof/pHUUTn",
+      "authorship_tag": "ABX9TyMulZEdCBYkY+C+H34aF+7b",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/AswinM-programmer07/AswinMVK.github.io/blob/main/Untitled5.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/AswinM-programmer07/AswinMVK.github.io/blob/main/Hodgkin-Huxley%20Model%20Equations%3A\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -31,6 +31,15 @@
       "source": [],
       "metadata": {
         "id": "E9breEmZ8IPi"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "_CWpINhXUkZ7"
       },
       "execution_count": null,
       "outputs": []
@@ -111,7 +120,7 @@
         "id": "HvP7319BFZOG",
         "outputId": "be12fae5-97bb-4638-c1eb-31d862339582"
       },
-      "execution_count": 37,
+      "execution_count": null,
       "outputs": [
         {
           "name": "stdout",
@@ -243,7 +252,7 @@
         "id": "uDYVHL4PRJb1",
         "outputId": "2e293dda-bad5-4085-82a2-9128c10febbd"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
